@@ -12,7 +12,7 @@
 
 Hi there, my name is Yahia Akkazi.
 
-I am a graduate of Centrale Marseille with a master's degree in Data Science & Engineering and a minor degree in Computer Science. My academic journey seamlessly blends these disciplines, fostering a foundation in data processing, data science, machine learning, telecommunications and software development – all areas that deeply align with my personal interests. This fusion of expertise allows me to innovate at the intersection of hardware and software, bridging intricate technological gaps.
+I am a graduate of Centrale Marseille & Centrale Casablanca with a master's degree in Data Science & Engineering and a minor degree in Computer Science. My academic journey seamlessly blends these disciplines, fostering a foundation in data processing, data science, machine learning, telecommunications and software development – all areas that deeply align with my personal interests. This fusion of expertise allows me to innovate at the intersection of hardware and software, bridging intricate technological gaps.
 
 My experiences span diverse sectors, including banking, consulting, telecommunications, and energy, where I've leveraged my technical acumen and collaborative skills. Notably, I've contributed to groundbreaking projects in intelligent systems, artificial intelligence, and big databases migration, showcasing my ability to navigate complexities and propel interdisciplinary projects in academia and industry. With a passion for technology and a skill set that traverses domains, I am poised to make enduring contributions in innovation and teamwork.
 
