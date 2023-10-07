@@ -79,37 +79,37 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/keras.svg" alt="keras" width="40" height="40" /> </a>
+  <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/keras.svg" alt="keras" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/numpy.svg" alt="numpy" width="40" height="40" /> </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/numpy.svg" alt="numpy" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="airflow" width="40" height="40" /> </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/airflow-svgrepo-com.svg" alt="airflow" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="ansible" width="40" height="40" /> </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/ansible-1.svg" alt="ansible" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://aws.amazon.com/fr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="aws" width="40" height="40" /> </a>
+  <a href="https://aws.amazon.com/fr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/aws-svgrepo-com.svg" alt="aws" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.elastic.co/fr/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="elasticsearch" width="40" height="40" /> </a>
+  <a href="https://www.elastic.co/fr/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/elasticsearch-svgrepo-com.svg" alt="elasticsearch" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.elastic.co/fr/logstash" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="logstash" width="40" height="40" /> </a>
+  <a href="https://www.elastic.co/fr/logstash" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/logstash-svgrepo-com.svg" alt="logstash" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.elastic.co/fr/kibana" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="kibana" width="40" height="40" /> </a>
+  <a href="https://www.elastic.co/fr/kibana" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/kibana-svgrepo-com.svg" alt="kibana" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://cloud.google.com/?hl=fr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="gcp" width="40" height="40" /> </a>
+  <a href="https://cloud.google.com/?hl=fr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/gcp-svgrepo-com.svg" alt="gcp" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="jenkins" width="40" height="40" /> </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/jenkins-svgrepo-com.svg" alt="jenkins" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://cloud.google.com/vertex-ai?hl=fr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="vertex-ai" width="40" height="40" /> </a>
+  <a href="https://cloud.google.com/vertex-ai?hl=fr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/vertexai-svgrepo-com.svg" alt="vertex-ai" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="selenium" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="kafka" width="40" height="40" /> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/selenium-svgrepo-com.svg" alt="kafka" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="sonarqube" width="40" height="40" /> </a>
   &nbsp; &nbsp;
