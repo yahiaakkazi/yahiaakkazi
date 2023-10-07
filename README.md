@@ -109,7 +109,7 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/selenium-svgrepo-com.svg" alt="selenium" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/selenium-svgrepo-com.svg" alt="kafka" width="40" height="40" /> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/kafka-icon-svgrepo-com.svg" alt="kafka" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/sonarqube-svgrepo-com.svg" alt="sonarqube" width="40" height="40" /> </a>
   &nbsp; &nbsp;
