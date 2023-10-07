@@ -52,17 +52,17 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/c.svg" alt="c" width="40" height="40" /> </a>
+  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   &nbsp; &nbsp;
-  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matlab.svg" alt="matlab" width="40" height="40" /> </a>
+  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/matlab.svg" alt="matlab" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
 </div>
 
@@ -87,7 +87,7 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/airflow-svgrepo-com.svg" alt="airflow" width="40" height="40" /> </a>
   &nbsp; &nbsp;
@@ -107,11 +107,11 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://cloud.google.com/vertex-ai?hl=fr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/vertexai-svgrepo-com.svg" alt="vertex-ai" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="selenium" width="40" height="40" /> </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/selenium-svgrepo-com.svg" alt="selenium" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/selenium-svgrepo-com.svg" alt="kafka" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com///main/icons/matplotlib.svg" alt="sonarqube" width="40" height="40" /> </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/sonarqube-svgrepo-com.svg" alt="sonarqube" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
 </div>
