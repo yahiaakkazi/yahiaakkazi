@@ -34,9 +34,9 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp;
   <a href="https://www.linkedin.com/in/yahia-akkazi/" target="_blank" rel="noreferrer"> <img alt="Yahia Akkazi's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://github.com/yahiaakkazi/e" target="_blank" rel="noreferrer"> <img alt="Yahia Akkazi's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  <a href="https://github.com/yahiaakkazi/" target="_blank" rel="noreferrer"> <img alt="Yahia Akkazi's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://github.com/yahiaakkazi/" target="_blank" rel="noreferrer"> <img alt="Yahia Akkazi's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+  <a href="https://leetcode.com/yahyaakkazi/" target="_blank" rel="noreferrer"> <img alt="Yahia Akkazi's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 </div>
 
 
