@@ -117,6 +117,9 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
 </div>
 
 
+![](https://hit.yhype.me/github/profile?user_id=83475215)
+
+
 
 
 <!-- ## 📊 GitHub Stats
