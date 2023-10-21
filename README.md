@@ -114,10 +114,12 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/sonarqube-svgrepo-com.svg" alt="sonarqube" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
+
+![Vs](https://hit.yhype.me/github/profile?user_id=83475215)
 </div>
 
 
-![Vs](https://hit.yhype.me/github/profile?user_id=83475215)
+
 
 
 
