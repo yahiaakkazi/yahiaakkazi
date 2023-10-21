@@ -115,7 +115,9 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
 
-![Vs](https://hit.yhype.me/github/profile?user_id=83475215)
+
+
+![](https://hit.yhype.me/github/profile?user_id=83475215)
 </div>
 
 
