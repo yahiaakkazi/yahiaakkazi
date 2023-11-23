@@ -111,6 +111,8 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/kafka-icon-svgrepo-com.svg" alt="kafka" width="40" height="40" /> </a>
   &nbsp; &nbsp;
+  <a href="https://nifi.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/kafka-icon-svgrepo-com.svg" alt="nifi" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/yahiaakkazi/yahiaakkazi/main/icons/sonarqube-svgrepo-com.svg" alt="sonarqube" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
