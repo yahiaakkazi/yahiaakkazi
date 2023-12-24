@@ -1,9 +1,3 @@
-![image](https://github.com/yahiaakkazi/yahiaakkazi/assets/83475215/5f759626-43f4-4f53-a739-b1f329591737)<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com///main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height="74" />
-</div>
--->
-
 # Welcome to my GitHub page
 
 
