@@ -48,7 +48,7 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="java" width="40" height="40" /> </a>
+  <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/184143/java.svg" alt="java" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   &nbsp; &nbsp;
