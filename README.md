@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/yahiaakkazi/yahiaakkazi/assets/83475215/5f759626-43f4-4f53-a739-b1f329591737)<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com///main/gifs/Aras_Gungore.gif" alt="Aras Gungore" width="433" height="74" />
 </div>
@@ -54,7 +54,7 @@ Check out my [portfolio](http://akkazi-portfolio.ddnsgeek.com:3000/) and [CV](ht
   &nbsp; &nbsp;
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" alt="java" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   &nbsp; &nbsp;
